@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  toDoList = ['Workout','Hiking','Cycling','Eat Clean']
+
   constructor() {}
 
 }
